@@ -13,7 +13,7 @@ class SendEmail:
         smtp_server = 'smtp.qq.com'
         username = '841042124@qq.com'
         password = 'bxirbkxeyumybfej'
-        receiver = ['841042124@qq.com', '2111570372@qq.com', '1752850304@qq.com']
+        receiver = ['841042124@qq.com', '2111570372@qq.com']
         content = """
         <h1>图片内容:</h1>
         <img src='cid:img1'>

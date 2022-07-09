@@ -3,6 +3,7 @@ from BeautifulReport import BeautifulReport
 from base.base_fixture import BaseFixture
 from common.data_load import read_excel_dic, write_excel
 from log.logger import Log
+import unittest
 log = Log().get_log()
 
 
@@ -30,7 +31,7 @@ class TestLogin(BaseFixture):
             write_excel(login['id'] + 1, 5, '未通过')
             raise
 
-    # @unittest.skip("不退出登录")
+    @unittest.skip("不退出登录")
     @BeautifulReport.add_test_img("test_02_click_exit")
     @file_data("../data/entry.yaml")
     def test_02_click_exit(self, **entry):

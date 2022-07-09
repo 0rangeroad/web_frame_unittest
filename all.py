@@ -18,4 +18,4 @@ if __name__ == '__main__':
     BeautifulReport(suite).report(description="自动化测试报告", filename="report" + nowtime, log_path="Report")
     # 在发送邮件之前一定要把文件流关闭
     # files.close()
-    # SendEmail().send_email(report_name)
+    SendEmail().send_email(report_name)
