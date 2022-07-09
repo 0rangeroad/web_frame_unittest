@@ -1,0 +1,17 @@
+-
+  attr: readonly
+  tel: 18888888888
+  contract_name: 这是合同
+  date: "2022-05-25"
+  amount: 20000
+  value: CG
+  xdrmc: 尹
+  identity: 350781196403076047
+  describe: 描述123
+  exit_expect_result: OA系统
+  contract_expect_result: 合同管理
+  open_entry_expect_result: 合同审批
+
+
+
+
