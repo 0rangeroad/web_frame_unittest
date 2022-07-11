@@ -1,4 +1,0 @@
-2022-07-11 09:16:44,491 [ERROR] [base_fixture.py setUpClass:36] - 错误信息：Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
-
-2022-07-11 09:16:44,500 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
-2022-07-11 11:24:09,218 [ERROR] [test_login.py test_01_login:30] - 登录断言失败！
