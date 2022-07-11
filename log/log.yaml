@@ -1,0 +1,18 @@
+2022-07-11 15:08:04,537 [ERROR] [base_fixture.py setUpClass:36] - 错误信息：Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+2022-07-11 15:08:04,537 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:08:04,542 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:08:04,543 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:08:04,544 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:08:58,210 [ERROR] [base_fixture.py setUpClass:36] - 错误信息：Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+2022-07-11 15:08:58,219 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:08:58,260 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:08:58,264 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:08:58,267 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:14:03,529 [ERROR] [base_fixture.py setUpClass:36] - 错误信息：Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+2022-07-11 15:14:03,532 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:14:03,537 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:14:03,540 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 15:14:03,543 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!

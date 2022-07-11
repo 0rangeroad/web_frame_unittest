@@ -46,7 +46,9 @@ def read_excel_list():
 
 def read_excel_dic():
     wb = openpyxl.load_workbook(dir_path + 'data/test_data.xlsx')
-    sheet = wb['login']
+    sheet = wb['2']
+    print(sheet.max_row)
+    print(sheet.max_column)
     res = list(sheet.rows)
     # 获取第一行表头
     title = [i.value for i in res[0]]
@@ -61,7 +63,7 @@ def read_excel_dic():
 
 def write_excel(row, column, value):
     wb = openpyxl.load_workbook(dir_path + 'data/test_data.xlsx')
-    sheet = wb['login']
+    sheet = wb['2']
     sheet.cell(row=row, column=column, value=value)
     wb.save(dir_path + 'data/test_data.xlsx')
     wb.close()
