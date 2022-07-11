@@ -1,45 +1,4 @@
-2022-07-08 10:26:27,661 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 10:26:27,812 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 10:26:27,951 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 10:26:28,079 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 10:27:14,714 [ERROR] [test_login.py test_01_login:31] - ---------------登录断言失败！---------------
-2022-07-08 10:27:14,861 [ERROR] [test_login.py test_01_login:31] - ---------------登录断言失败！---------------
-2022-07-08 10:27:15,024 [ERROR] [test_login.py test_01_login:31] - ---------------登录断言失败！---------------
-2022-07-08 10:27:15,168 [ERROR] [test_login.py test_01_login:31] - ---------------登录断言失败！---------------
-2022-07-08 10:34:06,688 [ERROR] [base.py base_send_keys:50] - 元素输入文本None失败！
-2022-07-08 10:34:07,260 [ERROR] [base.py base_send_keys:50] - 元素输入文本None失败！
-2022-07-08 10:39:17,827 [ERROR] [base.py base_send_keys:50] - 元素输入文本None失败！
-2022-07-08 10:40:58,181 [ERROR] [base.py base_send_keys:50] - 元素输入文本None失败！
-2022-07-08 10:44:38,203 [ERROR] [base.py base_send_keys:50] - 元素输入文本None失败！
-2022-07-08 11:15:40,122 [ERROR] [base.py base_get_text:38] - 获取元素值失败！
-2022-07-08 11:45:36,574 [ERROR] [test_login.py test_01_login:31] - ---------------登录断言失败！---------------
-2022-07-08 14:03:39,715 [ERROR] [test_login.py test_01_login:29] - ---------------登录断言失败！---------------
-2022-07-08 14:04:18,414 [ERROR] [test_login.py test_01_login:29] - ---------------登录断言失败！---------------
-2022-07-08 14:04:19,079 [ERROR] [test_login.py test_01_login:29] - ---------------登录断言失败！---------------
-2022-07-08 14:04:19,704 [ERROR] [test_login.py test_01_login:29] - ---------------登录断言失败！---------------
-2022-07-08 14:04:48,435 [ERROR] [test_login.py test_01_login:29] - ---------------登录断言失败！---------------
-2022-07-08 14:04:49,113 [ERROR] [test_login.py test_01_login:29] - ---------------登录断言失败！---------------
-2022-07-08 14:04:49,769 [ERROR] [test_login.py test_01_login:29] - ---------------登录断言失败！---------------
-2022-07-08 14:05:01,151 [ERROR] [base.py base_find_element:27] - 元素定位失败，元素：('id', 'locationName')
-2022-07-08 14:05:01,151 [ERROR] [base.py base_get_text:38] - 获取元素值失败！
-2022-07-08 14:09:52,819 [ERROR] [base.py base_find_element:27] - 元素定位失败，元素：('xpath', '//div[@class="layui-layer-content"]')
-2022-07-08 14:09:52,819 [ERROR] [base.py base_get_text:38] - 获取元素值失败！
-2022-07-08 14:24:26,528 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:25:59,485 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:26:00,195 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:26:00,886 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:27:40,239 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:27:40,923 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:27:41,594 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:46:51,960 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:47:44,135 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:49:37,580 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 14:50:26,795 [ERROR] [test_login.py test_01_login:30] - ---------------登录断言失败！---------------
-2022-07-08 15:38:08,910 [ERROR] [test_login.py test_01_login:30] - 登录断言失败！
-2022-07-08 15:42:08,402 [ERROR] [test_login.py test_01_login:30] - 登录断言失败！
-2022-07-08 15:42:10,740 [ERROR] [test_login.py test_01_login:30] - 登录断言失败！
-2022-07-08 15:42:12,925 [ERROR] [test_login.py test_01_login:30] - 登录断言失败！
-2022-07-08 15:42:19,207 [ERROR] [test_login.py test_01_login:30] - 登录断言失败！
-2022-07-08 15:59:10,188 [ERROR] [test_login.py test_01_login:30] - 登录断言失败！
-2022-07-08 16:00:24,532 [ERROR] [test_login.py test_01_login:30] - 登录断言失败！
-2022-07-08 16:50:38,948 [ERROR] [test_login.py test_02_click_exit:47] - 退出登录断言失败！
+2022-07-11 09:16:44,491 [ERROR] [base_fixture.py setUpClass:36] - 错误信息：Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+2022-07-11 09:16:44,500 [ERROR] [base_fixture.py save_img:23] - 断言截图失败!
+2022-07-11 11:24:09,218 [ERROR] [test_login.py test_01_login:30] - 登录断言失败！
